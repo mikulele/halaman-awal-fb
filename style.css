@@ -1,0 +1,156 @@
+body{
+	margin: 0 ;
+	padding: 0 ;
+	background-color: #DDE1ED;
+}
+ul{
+	margin: 0;
+	color: #000;
+}
+.facebook1 ul a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.facebook2 ul li a{
+	text-decoration: none;
+	color: #8fabc6;
+}
+.facebook2 ul li a:hover{
+	text-decoration: underline;
+}
+ul li{
+	list-style: none;
+}
+.wrapper{
+	width: 100%;
+	background-color: #3b5998;
+	height: 75px;
+}
+.wrapper .facebook{
+	width: 50%;
+	float:left;
+}
+.facebook1{
+	float: left;
+	padding-left: 20%;
+	font-size: 40px;
+	font-family: sans-serif; 
+	padding-top: 25px;
+}
+.facebook2{
+	float: right;
+	padding-top: 18px; 
+	padding-right: 190px;
+	font-size: 12px;
+}
+.facebook2 li{
+	float: left;
+	padding-left: 15px;
+	color: #ffffff;
+}
+.form-col1 input{
+	background-color: #4267b2;
+	color: #ffffff;
+	border: solid 1px #29487d;
+	height: 24px;
+	font-weight: bold;
+	font-size: 12px;
+	cursor: pointer;
+}
+.form-col1 input:hover{
+	background-color: #3b5998
+}
+.content{
+	width: 100%;
+}
+.content-col{
+	width: 50%;
+	float: left;
+}
+.content-col1{
+	font-size: 30px;
+	margin-top: 15px;
+	text-align: center;
+	width: 300px;
+	color: #3b5998;
+}
+.content-col2{
+	color: #1d2129;
+	margin-top: 15px;
+	text-align: center;
+	width: 300px;
+	font-size: 23px;
+}
+.content-col3{
+	font-size: 36px;
+	color: #333;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+.content-col4{
+	font-size: 19px;
+	color: #1d2129;
+
+}
+.content2{
+	float: right;
+	padding: 30px 120px;
+}
+.content3{
+	padding: 30px 70px;
+	font-family: sans-serif;
+}
+.content-col5 li{
+	float: left;
+	padding: 5px 5px;
+}
+.content-col5{
+	margin: 10px 0px;
+	margin-left: -50px;
+}
+.content-col5 .name li input{
+	width: 172px;
+	font-size: 18px;
+	padding: 8px 10px;
+	border:solid 1px #bdc7d8;
+	border-radius: 5px;
+}
+.email li input{
+	width: 378px;
+	font-size: 18px;
+	padding: 8px 10px;
+	border: solid 1px #bdc7d8;
+	border-radius: 5px;
+}
+.col{
+	padding: 10px 50px;
+	font-family: sans-serif;
+	color: #1d2129;
+	font-size: 18px;
+}
+.col2{
+	padding: 8px 10px;
+}
+.col2 select{
+	font-size: 13px;
+	height: 30px;
+	padding: 5px;
+	border:1px solid #bdc7d8;
+}
+.mengapa a{
+	font-size: 11px;
+	max-width: 150px;
+}
+span{
+	margin-left: 38px;
+}
+span .cols{
+	margin-left: -4px;
+}
+.error{
+	margin-left: 10px;
+	font-size: 11px;
+	max-width: 150px;
+	display: inline-block;
+	vertical-align: middle;
+}
